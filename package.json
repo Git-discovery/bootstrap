@@ -1,0 +1,35 @@
+{
+  "name": "bootstrap",
+  "version": "1.0.0",
+  "description": "bootstrap vue components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Git-discovery/bootstrap.git"
+  },
+  "keywords": [
+    "bootsrtap",
+    "vue",
+    "component",
+    "typescript"
+  ],
+  "author": "sunsp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Git-discovery/bootstrap/issues"
+  },
+  "homepage": "https://github.com/Git-discovery/bootstrap#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.28.4",
+    "@typescript-eslint/parser": "^4.28.4",
+    "eslint": "^7.31.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-prettier": "^3.4.0",
+    "eslint-plugin-vue": "^7.14.0",
+    "prettier": "^2.3.2",
+    "typescript": "^4.3.5"
+  }
+}
